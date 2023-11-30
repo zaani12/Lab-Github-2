@@ -12,5 +12,8 @@
 - Utilisation des branch
 - Utilisation des pull request
 ### référence 
+
+[w3schools](https://www.w3schools.com/git/git_github_flow.asp?remote=github)
+[github docs](https://docs.github.com/en/get-started/quickstart/github-flow)
+
 ### livrable 
-lioouiuiiui
