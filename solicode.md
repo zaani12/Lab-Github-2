@@ -1,9 +1,9 @@
 # solicode journal 
-***Headline: L'hackathon de SoliCode se rapproche bientôt - Un événement phare pour les passionnés de codage***
 
 
 
-# L'hackathon de SoliCode se rapproche bientôt - Un événement phare pour les passionnés de codage
+
+### ***Headline: L'hackathon de SoliCode se rapproche bientôt - Un événement phare pour les passionnés de codage***
 
 **30 novembre 2023**
 
@@ -16,7 +16,7 @@ Dans le monde florissant de la technologie et du développement informatique, le
 
 ## SoliCode : Un événement incontournable
 
-**SoliCode**, SOLICODE est un centre de formation solidaire et inclusif, ouvert aux jeunes motivés et intéressés par les métiers du Développement Web et Mobile. L’apprenant à SOLICODE se considère comme acteur principal tout au long de son processus d’apprentissage. C’est lui qui construit ses savoirs à travers la réalisation des projets, individuels ou par groupe, inspirés du milieu professionnel afin de favoriser une meilleure insertion au marché de travail. La formation au sein de SOLICODE est axée sur différents volets: technique, soft-skills, entreprenariat et gestion de projet. A l’issue de cette formation,
+**SOLICODE**,  est un centre de formation solidaire et inclusif, ouvert aux jeunes motivés et intéressés par les métiers du Développement Web et Mobile. L’apprenant à SOLICODE se considère comme acteur principal tout au long de son processus d’apprentissage. C’est lui qui construit ses savoirs à travers la réalisation des projets, individuels ou par groupe, inspirés du milieu professionnel afin de favoriser une meilleure insertion au marché de travail. La formation au sein de SOLICODE est axée sur différents volets: technique, soft-skills, entreprenariat et gestion de projet. A l’issue de cette formation,
 
 ![SoliCode Event](./images/images.jpg)
 
