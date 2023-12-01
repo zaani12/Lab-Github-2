@@ -18,4 +18,4 @@
 
 ### livrable 
 [lien de préinscription](https://docs.google.com/presentation/d/1uy-H5JozMTtcgcCoG7_gF7gx_EXJfJorTBs6D8VPuyg/edit?usp=sharing)
-[lien de github dépo]([https://docs.google.com/presentation/d/1uy-H5JozMTtcgcCoG7_gF7gx_EXJfJorTBs6D8VPuyg/edit?usp=sharing](https://github.com/zaani12/Lab-Github-2/tree/devlop)https://github.com/zaani12/Lab-Github-2/tree/devlop)
+[lien de github dépo](https://github.com/zaani12/Lab-Github-2/tree/devlop)
