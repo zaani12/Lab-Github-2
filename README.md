@@ -14,8 +14,12 @@
 ### référence 
 
 [w3schools](https://www.w3schools.com/git/git_github_flow.asp?remote=github)
+
+
 [github docs](https://docs.github.com/en/get-started/quickstart/github-flow)
 
 ### livrable 
 [lien de préinscription](https://docs.google.com/presentation/d/1uy-H5JozMTtcgcCoG7_gF7gx_EXJfJorTBs6D8VPuyg/edit?usp=sharing)
+
+
 [lien de github dépo](https://github.com/zaani12/Lab-Github-2/tree/devlop)
